@@ -7,7 +7,7 @@ Apex no-recoil + AimAssist by
 Version 1.0
 (still in development)
 
-![alt text](https://github.com/PetrosPastor/Apex-AimAssist-NoRecoil-2022/ScreenShot/Screenshot1.jpg?raw=true)
+![alt text](https://github.com/PetrosPastor/Apex-AimAssist-NoRecoil-2022/blob/main/ScreenShot/Screenshot1.jpg?raw=true)
 
 sens: (Mouse Sensitivity): This should be the same as your in-game mouse Sensitivity
 
