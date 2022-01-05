@@ -7,6 +7,8 @@ Apex no-recoil + AimAssist by
 Version 1.0
 (still in development)
 
+![alt text](https://github.com/PetrosPastor/Apex-AimAssist-NoRecoil-2022/ScreenShot/Screenshot1.jpg?raw=true)
+
 sens: (Mouse Sensitivity): This should be the same as your in-game mouse Sensitivity
 
 enable_voice: A robotic voice line tells you the equipped weapon name and etc. (Mainly for debugging)
