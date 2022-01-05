@@ -1,0 +1,7 @@
+You need to fix pixel coordination for these resolutions yourself
+Fix gs(golden scope pixels)-BloodhoundTL/DR pixels-Sniper golden scope pixels
+Pick a white 0xFFFFFF pixel and replace its x,y coordination with pixels in the file
+bug: 1600x900 golden scope icons may not have a white 0xFFFFFF pixel - I'll fix it later
+1600x900
+2560x1440
+3840x2160
