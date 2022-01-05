@@ -122,7 +122,7 @@ if (resolution == "3840x2160") {
 Gui, Font, S18 Bold, 
 Gui, Add, Button, x155 y315 w190 h40 gbtSave, Save and Run!
 Gui, Font, , 
-Gui, Add, Link, x158 y358 w200 h18 , <a href="https://github.com/thirdpetros">PetrosPastor/Apex-NoRecoil+AimAssist</a>
+Gui, Add, Link, x158 y358 w250 h18 , <a href="https://github.com/PetrosPastor/Apex-AimAssist-NoRecoil-2022">PetrosPastor/Apex-AimAssist-NoRecoil-2022</a>
 Gui, Add, Link, x158 y378 w200 h18 , <a href="https://github.com/mgsweet/Apex-NoRecoil-2021">mgsweet/Apex-NoRecoil-2021</a>
 ActiveMonitorInfo(X, Y, Width, Height)
 xPos := Width / 2 - 477 / 2
