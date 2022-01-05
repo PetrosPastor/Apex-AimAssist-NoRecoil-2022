@@ -1,5 +1,6 @@
 # Apex-AimAssist-NoRecoil-2022
 (This project is based on another project from github.com/mgsweet)
+
 An AutoHotKey script minimize recoil with auto weapon detection for Apex Legends and new golden scope and blood hound ultimate aim assist.
 
 Apex no-recoil + AimAssist by 
