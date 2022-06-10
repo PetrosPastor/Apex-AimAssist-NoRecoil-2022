@@ -3,7 +3,7 @@ Apex no-recoil + AimAssist by
 Version 1.0
 (still in development)
 
-sens: (Mouse Sensitivity): This should be the same as your in-game mouse Sensitivity
+sens: (1.6): This should be the same as your in-game mouse Sensitivity
 
 enable_voice: A robotic voice line tells you the equipped weapon name and etc. (Mainly for debugging)
 
@@ -68,7 +68,7 @@ bug: 1600x900 golden scope icons may not have a white 0xFFFFFF pixel - I'll fix 
 1600x900
 2560x1440
 3840x2160
-
+1280x1024
 
 
 
